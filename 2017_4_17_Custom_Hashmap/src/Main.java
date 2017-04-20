@@ -1,6 +1,5 @@
 /*
- * CS 2336 Computer Science II
- * Homework 7: Custom Quadratic Hash Table
+ * Custom Hash Table with Quadratic Probing
  * Author: Jimmy Nguyen
  * Contact me: Jimmy@JimmyWorks.net
  */
