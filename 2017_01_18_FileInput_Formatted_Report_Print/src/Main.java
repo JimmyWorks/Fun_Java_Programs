@@ -31,10 +31,8 @@ public class Main {
             System.out.printf("Taxes\n\n");
             System.out.printf("%-20s $%-10.2f\n", "Fed Withholding" , weeklyHours*payrate*federalTaxWithholding); 
             System.out.printf("%-20s $%-10.2f\n\n\n", "State Withholding", weeklyHours*payrate*stateTaxWithholding);
-            //System.out.printf("\n\n\n");
 
         }
-        input.close();
     }
     
 }
